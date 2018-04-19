@@ -1,0 +1,13 @@
+{
+  "name": "Fritz Bot",
+  "description": "Fritz's Official Discord Bot",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "worker node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
